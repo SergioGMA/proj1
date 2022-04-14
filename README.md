@@ -1,2 +1,0 @@
-# projetoIntegrador-II
-Projeto Univesp
